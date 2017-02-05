@@ -4,8 +4,6 @@ package com.example.coolweather.db;
  * Created by Administrator on 2017/2/4 0004.
  */
 
-import java.util.ArrayList;
-import java.util.List;
 import org.litepal.crud.DataSupport;
 
 public class Province extends DataSupport
