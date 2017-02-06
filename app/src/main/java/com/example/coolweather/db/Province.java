@@ -4,7 +4,7 @@ package com.example.coolweather.db;
  * Created by Administrator on 2017/2/4 0004.
  */
 
-import org.litepal.crud.DataSupport;
+        import org.litepal.crud.DataSupport;
 
 public class Province extends DataSupport
 {
